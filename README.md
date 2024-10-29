@@ -26,7 +26,9 @@ Line Chart:
 
 . Total P&L By Month: Tracked monthly P&L trends, highlighting financial performance over time.
 
-Tree Map: Used to filter by month, making it easy to view month-specific ad performance.
+Tree Map:
+
+. Used to filter by month, making it easy to view month-specific ad performance.
 
 Cards: 
 
